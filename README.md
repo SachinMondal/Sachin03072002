@@ -1,5 +1,6 @@
-![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/gif.gif)
+![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/giphy.gif )![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/gif.gif)
 <hr>
+
 <h3 align="center">A passionate frontend developer, learning backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin03072002&label=Profile%20views&color=0e75b6&style=flat" alt="sachin03072002" /> </p>
