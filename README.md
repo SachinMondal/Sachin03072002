@@ -1,4 +1,4 @@
-![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/giphy.gif )![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/gif.gif)
+![gif](https://github.com/Sachin03072002/Sachin03072002/blob/main/gif.gif)
 <hr>
 
 <h3 align="center">A passionate frontend developer, learning backend developer from India</h3>
